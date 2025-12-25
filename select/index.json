@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "深夜怖い",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-25T04:23:37.742756Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深夜怖い",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_深夜怖い_いよわ.txt"
+    }
+  ]
+}
